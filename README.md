@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?imagemprojeto#vitrinedev)
+![](https://github.com/arthurvicttor/clone-netflix/blob/main/clone-netflix-sooty-pi.vercel.app_%20(1).png#vitrinedev)
 
 ## Detalhes do projeto
 
