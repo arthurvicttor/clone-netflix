@@ -2,7 +2,7 @@
 
 🎥📺 Um clone da Netflix com as mesmas funções do site principal
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |   Arthur Victor  |
 | -------------  | --- |
 | :sparkles: Nome        | **Clone da Netflix**
 | :label: Tecnologias | html, css, (tecnologias utilizadas)
