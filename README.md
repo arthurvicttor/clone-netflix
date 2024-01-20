@@ -1,11 +1,11 @@
-# 🎥📺 Um clone da Netflix com as mesmas funções do site principa
+# 🎥📺Clone da Netflix
 
-Rápida descrição do objetivo de fazer esse projeto
+🎥📺 Um clone da Netflix com as mesmas funções do site principal
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Clone da Netflix**
+| :label: Tecnologias | html, css, (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
