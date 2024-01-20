@@ -6,8 +6,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Clone da Netflix**
 | :label: Tecnologias | html, css, (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: URL         | clone-netflix-sooty-pi.vercel.app
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/arthurvicttor/clone-netflix/blob/main/clone-netflix-sooty-pi.vercel.app_%20(1).png#vitrinedev)
